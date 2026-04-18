@@ -4,6 +4,7 @@
 - responsive ✔️
 - dynamic website template ✔️
 - Js ❌
+- w3Js ✔️
 
 ## 🖼️Image
 <img src='Capture.PNG' alt='picture'/>
